@@ -1,0 +1,21 @@
+app9
+if it's  hot
+    it's a hot day
+    Drink plenty of water
+otherwise if it's cold
+    it's a cold day
+    wear warm cloths
+otherwisw
+    It's a lovely day
+app11
+if applicant has high income AND good credict
+    Eligible for loan
+if applicant has high income OR good credict
+    Eligible for loan
+app11-2
+if applicant has high income OR good credict AND doesn't have a criminal record
+    Eligible for loan
+
+AND: both conditions are said to be true
+OR: at least one statement is true
+NOT
